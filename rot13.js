@@ -1,5 +1,5 @@
 /*
-
+Rot13 in Javascript
 Encodes the string using Rot13. Rot13 works by replacing each upper and lower case letters with the letter 13 positions ahead or behind it in the alphabet.
 
 */
